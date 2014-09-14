@@ -1,5 +1,5 @@
 
-**The file average.txt: The file has 180X81 dimention. Each row identifies the subject who performed the activity for average value of each activity. **
+**The file average.txt: The file has 180X81 dimention. Each row identifies the subject who performed the activity for average value of each activity.**
 
 ##All variable following:
 
