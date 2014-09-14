@@ -5,7 +5,7 @@
 
 1 subject: identifies the subject who performed.
 
-Average value from 2 to 80 column:
+Average value from 2 to 80 column: Note prefix 't' to denote time, the 'f' to indicate frequency domain signals. 'mean' for Mean value and 'std' for Standard deviation. Suffix 'xyz' is used to denote 3-axial signals in the X, Y and Z directions.Features are normalized and bounded within [-1,1].
 ```
 2 tbodyaccmeanx
 3 tbodyaccmeany
