@@ -1,11 +1,12 @@
 
-**The file average.txt: The file has 180*81 dimention. Each row identifies the subject who performed the activity for average value of each activity. **
+**The file average.txt: The file has 180X81 dimention. Each row identifies the subject who performed the activity for average value of each activity. **
 
 ##All variable following:
 
 1 subject: identifies the subject who performed.
 
 Average value from 2 to 80 column:
+```
 2 tbodyaccmeanx
 3 tbodyaccmeany
 4 tbodyaccmeanz
@@ -85,5 +86,5 @@ Average value from 2 to 80 column:
 78 fbodybodygyrojerkmagmean
 79 fbodybodygyrojerkmagstd
 80 fbodybodygyrojerkmagmeanfreq
-
+```
 81 activitylabels: the activity name.
