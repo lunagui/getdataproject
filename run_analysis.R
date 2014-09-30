@@ -58,7 +58,7 @@ for(i in 1:30){### based on each subject
 }
 ### tidy data to final data frame called average
 subject <- rep(1:30, each=6)
-ctivity <- rep(labels, times=30)
+activity <- rep(labels, times=30)
 average <- as.data.frame(cbind(subject,df,activity))
 names(average) <- names(subsetDT)
 
